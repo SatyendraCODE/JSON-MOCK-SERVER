@@ -1,4 +1,36 @@
 {
+  "users" : [
+    {
+      "id" : 1,
+      "username" : "admin",
+      "password" : "123",
+      "email" : "satyendra.code.pro@gmail.com"
+    },
+    {
+      "id" : 2,
+      "username" : "satyendrasinh",
+      "password" : "12345",
+      "email" : "satyendra.code.pro@gmail.com"
+    },
+    {
+      "id" : 3,
+      "username" : "satu",
+      "password" : "12345",
+      "email" : "satyendra.code.pro@gmail.com"
+    }
+    ,{
+      "id" : 4,
+      "username" : "balu",
+      "password" : "12345",
+      "email" : "satyendra.code.pro@gmail.com"
+    },
+    {
+      "id" : 5,
+      "username" : "meet",
+      "password" : "12345",
+      "email" : "satyendra.code.pro@gmail.com"
+    }
+  ],
   "Shows": [
     {
       "id": 0,
