@@ -685,5 +685,61 @@
       "discription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
       "url": "3ey62TcRLkM"
     }
+  ],
+  "Carousel" : [
+    {
+      "id": "m-0",
+      "type": "movie",
+      "Title": "Ms Dhoni The untold story",
+      "imgSrc": "./img/movies/0.jpg",
+      "logoSrc": "https://img1.hotstarext.com/image/upload/f_auto,h_136/sources/r1/cms/prod/5335/1375335-t-cb71a571dc93",
+      "largeImgSrc": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5333/1375333-i-e44f367bc7fa",
+      "category": ["Drama", "movie", "Action", "Family-Friendly"],
+      "discription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "url": "6L6XqWoS8tw"
+    },
+    {
+      "id": 2,
+      "type": "show",
+      "Title": "is pyaar ko kya naam du?",
+      "imgSrc": "./img/serials/ispyaarko.jpg",
+      "logoSrc": "https://img1.hotstarext.com/image/upload/f_auto,h_136/sources/r1/cms/prod/4249/1414249-t-93a6a14f09be",
+      "largeImgSrc": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4246/1414246-i-68621e67fcc5",
+      "category": [
+        "Drama",
+        "serial",
+        "Common-Man Struggles",
+        "Family-Friendly"
+      ],
+      "discription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "url": "REbOEGK7tSY"
+    },
+    {
+      "id": "m-3",
+      "type": "movie",
+      "Title": "Tanhaji",
+      "imgSrc": "./img/movies/3.jpg",
+      "logoSrc": "https://img1.hotstarext.com/image/upload/f_auto,h_136/sources/r1/cms/prod/2998/1372998-t-e2f6a928f635",
+      "largeImgSrc": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2995/1372995-i-9b41e01cc3b3",
+      "category": ["Drama", "movie", "Action", "Family-Friendly"],
+      "discription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "url": "cffAGIYTEHU"
+    },
+    {
+      "id": 8,
+      "type": "show",
+      "Title": "Anupma",
+      "imgSrc": "./img/serials/anupma.jpg",
+      "logoSrc": "https://img1.hotstarext.com/image/upload/f_auto,h_136/sources/r1/cms/prod/3843/1413843-t-83385a504c92",
+      "largeImgSrc": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3841/1413841-i-27f3dcec4f73",
+      "category": [
+        "Drama",
+        "serial",
+        "Common-Man Struggles",
+        "Family-Friendly"
+      ],
+      "discription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "url": "3ey62TcRLkM"
+    }
   ]
 }
